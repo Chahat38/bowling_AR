@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Bowl AR",
+  "description": "Clean mobile-first WebXR and Camera AR bowling game with 10 handcrafted levels.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
